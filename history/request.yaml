@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHSP-SP001-05-NUTNRJ000-recovered_cspp-nutnr_j_cspp_instrument_recovered
-last_request: '2021-10-05T22:37:34.355820Z'
+last_request: '2021-12-04T00:53:12.349174Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSP-SP001-05-NUTNRJ000-recovered_cspp-nutnr_j_cspp_instrument_recovered/main/history/response.json
-status: success
+status: pending
